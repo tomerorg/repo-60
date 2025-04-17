@@ -1,0 +1,13 @@
+{
+  "name": "repo-60",
+  "version": "1.0.0",
+  "description": "Javascript storage 60 with Jest and Vue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
